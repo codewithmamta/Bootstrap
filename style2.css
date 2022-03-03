@@ -1,0 +1,65 @@
+*{margin: 0; padding: 0;}
+.icon{padding-bottom: 2%;}
+.banner{
+    height: 400px;
+}
+h1{padding-left: 2%; text-align: center;}
+h4:hover{color: blue;}
+.col-span{text-align: center;}
+.icons1{margin-left: 40%; font-size: 2rem; color: red;}
+.icons2{margin-left: 40%; font-size: 2rem; color: blue;}
+.icons3{margin-left: 40%; font-size: 2rem; color: yellow;}
+.icons4{margin-left: 40%; font-size: 2rem; color: green;}
+.b1:hover{border: 1px solid red;}
+.b2:hover{border: 1px solid blue;}
+.b3:hover{border: 1px solid yellow;}
+.b4:hover{border: 1px solid green;}
+h4{text-align: center; padding: 1%;}
+p{text-align: center; font-size: 1rem;}
+.btn1{background-color: orange; border-radius: 30px; border: none; font-size: 1.5rem; color: white; padding: 10px;}
+h2{font-size: 2rem; text-align: center;}
+h5{text-align: center;}
+button1{background-color: orange; border-radius: 30px; border: none; font-size: 1.5rem; color: white; padding: 10px; margin-left: 40%;}
+
+.icon5{color: blueviolet; font-size: 3rem; margin-left: 40%;}
+.icon6{color: green; font-size: 3rem; margin-left: 40%;}
+.icon7{color: rgb(161, 47, 66); font-size: 3rem; margin-left: 40%;}
+.icon8{color: rgb(43, 226, 226); font-size: 3rem; margin-left: 40%;}
+.bg1{height: 400px;
+    background-image: url(https://media.istockphoto.com/photos/happy-black-techer-getting-applause-from-her-students-after-giving-a-picture-id1312241724?k=20&m=1312241724&s=612x612&w=0&h=39BS2yBCJMEw18g4mPjWuG6YF9OybjXAVD4FaO_RsPo=);
+    background-size: 100% 400px;
+}
+.bg2{height: 400px;
+    background-image: url(https://media.istockphoto.com/vectors/vector-flowchart-poster-with-vr-controller-car-racing-game-online-vector-id1144311560?k=20&m=1144311560&s=612x612&w=0&h=7Rl8iwiEioBy7gw_9YKLVjFE2o4qQ2WF58QnTHty4BM=);
+    background-size: 100% 400px;
+}
+h3{
+    font-size: 2rem;
+    color: red;
+    margin-top: 35%;
+}
+#btn1{background-color: orange; border-radius: 30px; border: none; font-size: 1rem; color: white; padding: 1% 1%;
+margin: 10px 40%;}
+#btn1:hover{background-color: rgb(0, 162, 255);}
+.bg4{background-image: url(https://cdn.pixabay.com/photo/2018/08/14/07/06/landscape-3604825__340.jpg);
+background-size: 100% 400px;}
+#img{margin: 20px 45%; border-radius: 50%;}
+#h2{font-size: 1.5rem; color: white; text-align: center;}
+#h6{font-size: 1.5rem;}
+#h6:hover{color: orange;}
+.phone{color:white; padding: 10% 15%; font-size: 1.5rem;}
+#h{color: white; font-size: 1.5rem; padding-top: 10%; }
+#p1{color:white;}
+h6{color: white;}
+#p2{color: white;}
+#pform{padding: 2%; border-radius: 10px; margin-top: 5%; width: 100%;}
+#input{padding: 2% 3%; border-radius: 10px; margin-top: 5%;}
+.btn2{background-color: rgb(0, 197, 247); border-radius: 30px; border: none;  color: white; padding: 1%;}
+.btn2:hover{background-color: orange;}
+.li{color: blue; font-size: 1.5rem;}
+
+
+
+
+
+
